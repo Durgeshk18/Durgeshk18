@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning PGD in Data Science
 - 💞️ I’m looking to collaborate on Data Science & Analytics Projects
 - 📫 How to reach me - via email - kekare.durgesh9@gmail.com
+- Professional Blogger at dataexpertise.in
 
 <!---
 Durgeshk18/Durgeshk18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
